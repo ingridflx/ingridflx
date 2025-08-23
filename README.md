@@ -1,6 +1,6 @@
-<h1 align="left">Ingrid Felix</h1>
+<h1 align="center">Ingrid Felix</h1>
 
-<p align="left">
+<p align="center">
 Desenvolvedora Front-end em desenvolvimento · Brasília, DF
 </p>
 
