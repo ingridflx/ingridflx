@@ -8,11 +8,11 @@ Desenvolvedora Front-end em desenvolvimento · Brasília, DF
 
 ## About me
 
-• 20 anos
-• Focada em aprender tecnologias de front-end
-• Apaixonada por construir interfaces responsivas, limpas e acessíveis
-• Experiência em suporte técnico e atendimento ao usuário
-• Interessada em sistemas de design e princípios de código limpo  
+- 20 anos
+- Focada em aprender tecnologias de front-end
+- Apaixonada por construir interfaces responsivas, limpas e acessíveis
+- Experiência em suporte técnico e atendimento ao usuário
+- Interessada em sistemas de design e princípios de código limpo  
 
 ---
 
@@ -30,15 +30,15 @@ Desenvolvedora Front-end em desenvolvimento · Brasília, DF
 
 ## Objetivos
 
-• Adquirir experiência prática em projetos colaborativos de front-end
-• Fortalecer habilidades em JavaScript e avançar para React em breve
-• Aplicar práticas de controle de versão e arquitetura limpa desde o início
-• Contribuir para o desenvolvimento web acessível e orientado à performance
+- Adquirir experiência prática em projetos colaborativos de front-end
+- Fortalecer habilidades em JavaScript e avançar para React em breve
+- Aplicar práticas de controle de versão e arquitetura limpa desde o início
+- Contribuir para o desenvolvimento web acessível e orientado à performance
 
 ---
 
 ## Contato
 
-• Email: ingridkauane2017@email.com  
-• LinkedIn: [linkedin.com/in/ingrid-felix-708729291](https://www.linkedin.com/in/ingrid-felix-708729291)  
-• GitHub: [github.com/ingridflx](https://github.com/ingridflx) 
+- Email: ingridkauane2017@email.com  
+- LinkedIn: [linkedin.com/in/ingrid-felix-708729291](https://www.linkedin.com/in/ingrid-felix-708729291)  
+- GitHub: [github.com/ingridflx](https://github.com/ingridflx) 
