@@ -10,7 +10,6 @@ Desenvolvedora Front-end em desenvolvimento · Brasília, DF
 
 - 20 anos
 - Focada em aprender tecnologias de front-end
-- Apaixonada por construir interfaces
 - Experiência em suporte técnico e atendimento ao usuário
 - Interessada em sistemas de design e princípios de código limpo  
 
