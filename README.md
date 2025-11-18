@@ -27,15 +27,6 @@ Desenvolvedora Front-end em desenvolvimento · Brasília, DF
 
 ---
 
-## Objetivos
-
-- Adquirir experiência prática em projetos colaborativos de front-end
-- Fortalecer habilidades em JavaScript e avançar para React em breve
-- Aplicar práticas de controle de versão e arquitetura limpa desde o início
-- Contribuir para o desenvolvimento web acessível e orientado à performance
-
----
-
 ## Contato
 
 - Email: ingridkauane2017@email.com  
